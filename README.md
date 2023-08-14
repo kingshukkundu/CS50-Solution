@@ -41,7 +41,11 @@ To run any of the code in this repository, you will likely need to have the CS50
 
 This repository is provided under the [MIT License](LICENSE). This means that you are free to use, modify, and distribute the code for your own personal or educational purposes. However, please be sure to respect the academic policies of your institution and use the code responsibly.
 
-Happy coding and best of luck with your CS50 journey! If you have any questions or suggestions, feel free to [open an issue](https://github.com/your-username/cs50-solutions/issues) or [create a pull request](https://github.com/your-username/cs50-solutions/pulls).
+Happy coding and best of luck with your CS50 journey! If you have any questions or suggestions, feel free to [open an issue](https://github.com/kingshukkundu/CS50-solutions/issues) or [create a pull request](https://github.com/kingshukkundu/CS50-solutions/pulls).
+
+
+**Disclaimer:** The solutions in this repository are provided as-is. While I have made efforts to ensure their correctness, there may still be errors or better solutions that exist. Use these solutions as a reference, but always strive to understand and solve the problems on your own.
+
 
 ## Ethical Use and Responsibility
 
@@ -51,5 +55,3 @@ I, the creator of this repository, am not responsible for any unethical use of t
 
 Please use these solutions as a reference to enhance your understanding and learning experience, rather than as a means to bypass the educational process. Struggling with the problems, seeking help, and arriving at your own solutions are essential steps in the learning journey.
 
-
-**Disclaimer:** The solutions in this repository are provided as-is. While I have made efforts to ensure their correctness, there may still be errors or better solutions that exist. Use these solutions as a reference, but always strive to understand and solve the problems on your own.
